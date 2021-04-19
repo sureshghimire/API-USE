@@ -1,0 +1,9 @@
+comman line application 
+
+cli to collect and fetch data from the custom build dailymotion_api
+
+Dependencies Installation Required:
+
+npm install --save yargs
+npm install --save inquirer
+npm install --save dailymotion-api
