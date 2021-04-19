@@ -1,0 +1,16 @@
+{
+  "name": "dailymotion-app",
+  "version": "1.0.0",
+  "description": "cli for searching videos on daiy motion",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Suresh Ghimire",
+  "license": "ISC",
+  "dependencies": {
+    "dailymotion-api": "file:..\\dailyMotion-api",
+    "inquirer": "^8.0.0",
+    "yargs": "^16.2.0"
+  }
+}
