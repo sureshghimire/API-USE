@@ -1,0 +1,14 @@
+{
+  "name": "dailymotion-api",
+  "version": "1.0.0",
+  "description": "warpper around the daily motion api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Suresh Ghimire",
+  "license": "ISC",
+  "dependencies": {
+    "superagent": "^6.1.0"
+  }
+}
