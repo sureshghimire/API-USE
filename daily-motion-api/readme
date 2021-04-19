@@ -1,1 +1,10 @@
-daily motion api wrapper to build custom api
+-----------   daily motion api wrapper to build custom api  ---------
+
+Install npm to run
+npm install (it will generate the package-lock-jason file in directory)
+
+Steps:
+npm init
+npm install --save yargs
+npm install --save inquirer
+
