@@ -2,6 +2,9 @@ comman line application
 
 cli to collect and fetch data from the custom build dailymotion_api
 
+npm install 
+-required to retrieve node_modules folder
+
 Dependencies Installation Required:
 
 npm install --save yargs
