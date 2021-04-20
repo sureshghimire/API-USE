@@ -12,4 +12,5 @@ npm install --save inquirer
 npm install --save dailymotion-api
 
 To run the application
+
 node cli.js search --catagory business
