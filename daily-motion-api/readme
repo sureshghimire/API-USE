@@ -1,0 +1,4 @@
+Custom build dailyMotion-api from dailymotion api
+
+Required Depeendiences Installation
+npm install --save superagent
