@@ -10,3 +10,6 @@ Dependencies Installation Required:
 npm install --save yargs
 npm install --save inquirer
 npm install --save dailymotion-api
+
+To run the application
+node cli.js search --catagory business
